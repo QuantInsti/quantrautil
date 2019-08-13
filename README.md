@@ -1,5 +1,5 @@
 # quantrautil
-This module contains the source code to get the OHLCV data from the web sources such as IEX finance, quandl and yahoo finance. 
+This module contains the source code to get the OHLCV data from the web sources such as IEX finance, quandl and yahoo finance. Additional resources: <a href='https://blog.quantinsti.com/stock-market-data-analysis-python/'>Stock data and analysis in Python</a>
 
 <p align="center">
   <img align="center" width="200" src="https://quantra.quantinsti.com/images/img_logo.svg">
